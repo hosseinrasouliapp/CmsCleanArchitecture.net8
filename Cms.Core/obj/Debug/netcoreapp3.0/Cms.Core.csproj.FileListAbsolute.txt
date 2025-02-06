@@ -1,0 +1,10 @@
+D:\Development\C#\web\Cms-Clean-Architecture--main\Cms-Clean-Architecture--main\Cms.Core\bin\Debug\netcoreapp3.0\Cms.Core.deps.json
+D:\Development\C#\web\Cms-Clean-Architecture--main\Cms-Clean-Architecture--main\Cms.Core\bin\Debug\netcoreapp3.0\Cms.Core.dll
+D:\Development\C#\web\Cms-Clean-Architecture--main\Cms-Clean-Architecture--main\Cms.Core\bin\Debug\netcoreapp3.0\Cms.Core.pdb
+D:\Development\C#\web\Cms-Clean-Architecture--main\Cms-Clean-Architecture--main\Cms.Core\obj\Debug\netcoreapp3.0\Cms.Core.csproj.AssemblyReference.cache
+D:\Development\C#\web\Cms-Clean-Architecture--main\Cms-Clean-Architecture--main\Cms.Core\obj\Debug\netcoreapp3.0\Cms.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\C#\web\Cms-Clean-Architecture--main\Cms-Clean-Architecture--main\Cms.Core\obj\Debug\netcoreapp3.0\Cms.Core.AssemblyInfoInputs.cache
+D:\Development\C#\web\Cms-Clean-Architecture--main\Cms-Clean-Architecture--main\Cms.Core\obj\Debug\netcoreapp3.0\Cms.Core.AssemblyInfo.cs
+D:\Development\C#\web\Cms-Clean-Architecture--main\Cms-Clean-Architecture--main\Cms.Core\obj\Debug\netcoreapp3.0\Cms.Core.csproj.CoreCompileInputs.cache
+D:\Development\C#\web\Cms-Clean-Architecture--main\Cms-Clean-Architecture--main\Cms.Core\obj\Debug\netcoreapp3.0\Cms.Core.dll
+D:\Development\C#\web\Cms-Clean-Architecture--main\Cms-Clean-Architecture--main\Cms.Core\obj\Debug\netcoreapp3.0\Cms.Core.pdb
