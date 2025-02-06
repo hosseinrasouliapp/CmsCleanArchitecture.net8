@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = Cms.Api
+build_property.ProjectDir = D:\Development\C#\web\Cms-Clean-Architecture--main\Cms-Clean-Architecture--main\Cms.Api\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 

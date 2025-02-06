@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "anUdl1kOjHBi6Qogv/t1yZio7jDzE28FpQK1th3KsUE=",
+  "Source": "Cms.Api",
+  "BasePath": "_content/Cms.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
