@@ -5591,11 +5591,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Development\\C#\\web\\Cms-Clean-Architecture--main\\Cms-Clean-Architecture--main\\Cms.Core\\Cms.Core.csproj",
+      "projectUniqueName": "D:\\Development\\C#\\web\\Cms Clean Architecture net8\\CmsCleanArchitecture.net8\\Cms.Core\\Cms.Core.csproj",
       "projectName": "Cms.Core",
-      "projectPath": "D:\\Development\\C#\\web\\Cms-Clean-Architecture--main\\Cms-Clean-Architecture--main\\Cms.Core\\Cms.Core.csproj",
+      "projectPath": "D:\\Development\\C#\\web\\Cms Clean Architecture net8\\CmsCleanArchitecture.net8\\Cms.Core\\Cms.Core.csproj",
       "packagesPath": "C:\\Users\\hrsoft\\.nuget\\packages\\",
-      "outputPath": "D:\\Development\\C#\\web\\Cms-Clean-Architecture--main\\Cms-Clean-Architecture--main\\Cms.Core\\obj\\",
+      "outputPath": "D:\\Development\\C#\\web\\Cms Clean Architecture net8\\CmsCleanArchitecture.net8\\Cms.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages",

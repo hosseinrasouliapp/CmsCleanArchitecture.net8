@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "weXIGB7e+Ig=",
+  "dgSpecHash": "TZJms4X2F18=",
   "success": true,
-  "projectFilePath": "D:\\Development\\C#\\web\\Cms-Clean-Architecture--main\\Cms-Clean-Architecture--main\\Cms.Api\\Cms.Api.csproj",
+  "projectFilePath": "D:\\Development\\C#\\web\\Cms Clean Architecture net8\\CmsCleanArchitecture.net8\\Cms.Api\\Cms.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hrsoft\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\hrsoft\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

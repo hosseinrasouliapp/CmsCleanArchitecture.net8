@@ -1,6 +1,6 @@
 is_global = true
 build_property.RootNamespace = Cms.Core
-build_property.ProjectDir = D:\Development\C#\web\Cms-Clean-Architecture--main\Cms-Clean-Architecture--main\Cms.Core\
+build_property.ProjectDir = D:\Development\C#\web\Cms Clean Architecture net8\CmsCleanArchitecture.net8\Cms.Core\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false

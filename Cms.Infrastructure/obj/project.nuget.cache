@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C3EKTgJsmwc=",
+  "dgSpecHash": "77edwLuhL9k=",
   "success": true,
-  "projectFilePath": "D:\\Development\\C#\\web\\Cms-Clean-Architecture--main\\Cms-Clean-Architecture--main\\Cms.Infrastructure\\Cms.Infrastructure.csproj",
+  "projectFilePath": "D:\\Development\\C#\\web\\Cms Clean Architecture net8\\CmsCleanArchitecture.net8\\Cms.Infrastructure\\Cms.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hrsoft\\.nuget\\packages\\mediatr\\7.0.0\\mediatr.7.0.0.nupkg.sha512",
     "C:\\Users\\hrsoft\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.1.0\\microsoft.aspnetcore.authentication.abstractions.2.1.0.nupkg.sha512",

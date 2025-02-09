@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Development\\C#\\web\\Cms-Clean-Architecture--main\\Cms-Clean-Architecture--main\\Cms.Infrastructure\\Cms.Infrastructure.csproj": {}
+    "D:\\Development\\C#\\web\\Cms Clean Architecture net8\\CmsCleanArchitecture.net8\\Cms.Infrastructure\\Cms.Infrastructure.csproj": {}
   },
   "projects": {
-    "D:\\Development\\C#\\web\\Cms-Clean-Architecture--main\\Cms-Clean-Architecture--main\\Cms.Core\\Cms.Core.csproj": {
+    "D:\\Development\\C#\\web\\Cms Clean Architecture net8\\CmsCleanArchitecture.net8\\Cms.Core\\Cms.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Development\\C#\\web\\Cms-Clean-Architecture--main\\Cms-Clean-Architecture--main\\Cms.Core\\Cms.Core.csproj",
+        "projectUniqueName": "D:\\Development\\C#\\web\\Cms Clean Architecture net8\\CmsCleanArchitecture.net8\\Cms.Core\\Cms.Core.csproj",
         "projectName": "Cms.Core",
-        "projectPath": "D:\\Development\\C#\\web\\Cms-Clean-Architecture--main\\Cms-Clean-Architecture--main\\Cms.Core\\Cms.Core.csproj",
+        "projectPath": "D:\\Development\\C#\\web\\Cms Clean Architecture net8\\CmsCleanArchitecture.net8\\Cms.Core\\Cms.Core.csproj",
         "packagesPath": "C:\\Users\\hrsoft\\.nuget\\packages\\",
-        "outputPath": "D:\\Development\\C#\\web\\Cms-Clean-Architecture--main\\Cms-Clean-Architecture--main\\Cms.Core\\obj\\",
+        "outputPath": "D:\\Development\\C#\\web\\Cms Clean Architecture net8\\CmsCleanArchitecture.net8\\Cms.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages",
@@ -108,14 +108,14 @@
         }
       }
     },
-    "D:\\Development\\C#\\web\\Cms-Clean-Architecture--main\\Cms-Clean-Architecture--main\\Cms.Infrastructure\\Cms.Infrastructure.csproj": {
+    "D:\\Development\\C#\\web\\Cms Clean Architecture net8\\CmsCleanArchitecture.net8\\Cms.Infrastructure\\Cms.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Development\\C#\\web\\Cms-Clean-Architecture--main\\Cms-Clean-Architecture--main\\Cms.Infrastructure\\Cms.Infrastructure.csproj",
+        "projectUniqueName": "D:\\Development\\C#\\web\\Cms Clean Architecture net8\\CmsCleanArchitecture.net8\\Cms.Infrastructure\\Cms.Infrastructure.csproj",
         "projectName": "Cms.Infrastructure",
-        "projectPath": "D:\\Development\\C#\\web\\Cms-Clean-Architecture--main\\Cms-Clean-Architecture--main\\Cms.Infrastructure\\Cms.Infrastructure.csproj",
+        "projectPath": "D:\\Development\\C#\\web\\Cms Clean Architecture net8\\CmsCleanArchitecture.net8\\Cms.Infrastructure\\Cms.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\hrsoft\\.nuget\\packages\\",
-        "outputPath": "D:\\Development\\C#\\web\\Cms-Clean-Architecture--main\\Cms-Clean-Architecture--main\\Cms.Infrastructure\\obj\\",
+        "outputPath": "D:\\Development\\C#\\web\\Cms Clean Architecture net8\\CmsCleanArchitecture.net8\\Cms.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages",
@@ -139,8 +139,8 @@
           "netcoreapp3.0": {
             "targetAlias": "netcoreapp3.0",
             "projectReferences": {
-              "D:\\Development\\C#\\web\\Cms-Clean-Architecture--main\\Cms-Clean-Architecture--main\\Cms.Core\\Cms.Core.csproj": {
-                "projectPath": "D:\\Development\\C#\\web\\Cms-Clean-Architecture--main\\Cms-Clean-Architecture--main\\Cms.Core\\Cms.Core.csproj"
+              "D:\\Development\\C#\\web\\Cms Clean Architecture net8\\CmsCleanArchitecture.net8\\Cms.Core\\Cms.Core.csproj": {
+                "projectPath": "D:\\Development\\C#\\web\\Cms Clean Architecture net8\\CmsCleanArchitecture.net8\\Cms.Core\\Cms.Core.csproj"
               }
             }
           }
